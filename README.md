@@ -3,7 +3,7 @@
 
 ###(Fiz o código só por desencargo de consciência) Questão 1:
 ```java
-// Autor: Canditado Tiago Moreira
+// Autor: Candidato Tiago Moreira
 
 public class QuestaoUm {
     public static void main(String[] args) {
@@ -20,7 +20,7 @@ public class QuestaoUm {
 ```
 ###Questão 2 (Sequência de Fibonacci):
 ```java
-// Autor: Canditado Tiago Moreira
+// Autor: Candidato Tiago Moreira
 
 public class QuestaoDois {
     public static void main(String[] args) {
@@ -49,7 +49,7 @@ public class QuestaoDois {
 ```
 ###Questão 5 (String Reverso):
 ```java
-// Autor: Canditado Tiago Moreira
+// Autor: Candidato Tiago Moreira
 
 public class QuestaoCinco {
     public static void main(String[] args) {
